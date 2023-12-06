@@ -19,8 +19,8 @@
     </style>
 </head>
 <body>
-    <h1>Olá, mundo! tag h que dá destaque</h1>
-    <p>Aqui existe uma tag p com sinais de maior e menor</p>
+    <h1>Olá, mundo!</h1>
+    <p></p>
     
     <script>
         //tag h1 existe para criar um título em destaque
